@@ -1,0 +1,26 @@
+.table_transactions {
+  margin-top: 30px;
+  border: 2px solid #343434;
+  width: 500px;
+  border-collapse: collapse;
+}
+
+.head {
+  background-color: #343434;
+  color: #fff;
+  text-align: center;
+}
+
+.head_title {
+  border-right: 1px solid #141414;
+  border-bottom: 1px solid #141414;
+}
+
+.transactions {
+  border: 1px solid #343434;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #c0bdbd;
+}
