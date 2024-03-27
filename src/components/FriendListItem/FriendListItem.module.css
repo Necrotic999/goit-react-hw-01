@@ -1,0 +1,18 @@
+.item_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.friend_name {
+  font-size: 20px;
+}
+
+.online {
+  color: #1ff310;
+}
+
+.offline {
+  color: #f20000;
+}
